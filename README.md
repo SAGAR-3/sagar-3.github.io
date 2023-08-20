@@ -1,4 +1,4 @@
-# Consultant AI 
+# Artificial Intelligence|Apache Spark|Tableau Server and Desktop 
 ### Education
   
 M. Tech Artificial Intelligence 
