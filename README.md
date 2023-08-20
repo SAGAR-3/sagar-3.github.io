@@ -1,1 +1,5 @@
-# sagar-3.github.io
+# Consultant AI 
+### Education
+  Indian Institute of Technology Jodhpur
+
+### Projects
