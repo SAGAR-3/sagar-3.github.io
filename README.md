@@ -1,6 +1,6 @@
 # Artificial Intelligence|Apache Spark|Tableau Server and Desktop 
 ### Education
-<img src="Images/IITJ_LOGO.PNG" alt="IITJ_LOGO" width="100" height="100">
+<img src="Images/IITJ_LOGO.PNG" alt="IITJ_LOGO" width="150" height="150">
 
 M. Tech Artificial Intelligence 
 Indian Institute of Technology Jodhpur
@@ -8,7 +8,7 @@ Indian Institute of Technology Jodhpur
 ### Organizations 
 Deloitte USI 
 
-<img src="Images/DELOITTE.PNG" alt="DELOITTE" width="300" height="100">
+<img src="Images/DELOITTE.PNG" alt="DELOITTE" width="300" height="70">
 
 Ernst & Young
 
