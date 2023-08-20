@@ -1,8 +1,9 @@
 # Consultant AI 
 ### Education
-  [Images/IIT J LOGO NEW.PNG]
   
-  M. Tech Artificial Intelligence
-  Indian Institute of Technology Jodhpur
+![IIT J LOGO NEW]{Images/IIT J LOGO NEW.PNG}
+  
+M. Tech Artificial Intelligence\n
+Indian Institute of Technology Jodhpur
 
 ### Projects
