@@ -1,4 +1,4 @@
-# Artificial Intelligence|Apache Spark|Tableau Server and Desktop 
+# Artificial Intelligence|Data Engineering
 ### Education
 <img src="Images/IITJ_LOGO.PNG" alt="IITJ_LOGO" width="150" height="150">
 
